@@ -1,0 +1,7 @@
+git pull .
+
+git add --all
+git commit -m "updating with new changes"
+git push . or git push
+username: Balakreshnan
+Password: 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
